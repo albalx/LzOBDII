@@ -68,7 +68,7 @@
   <CompilerOptions>
     <Version Value="11"/>
     <Target>
-      <Filename Value="LzOBDII"/>
+      <Filename Value="project1"/>
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
