@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="E:\lazarus\fpc\3.0.2\bin\x86_64-win64\fpc.exe" Date="1247518955"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -WG -l -vewnhibq &quot;-FiE:\Usuario\OneDrive\Proyecto\Proyecto-final -2\LzOBD\lib\x86_64-win64&quot; -Fue:\lazarus\components\sqldb\lib\x86_64-win64\win32 -Fue:\lazarus\components\ideintf\units\x86_64-win64\win32 -Fue:\lazarus\components\synedit\units\x86_64-win64\win32 -FuE:\Usuario\Documentos\Proyectos\TLazSerial-master\lib\x86_64-win64 -Fue:\lazarus\components\lazcontrols\lib\x86_64-win64\win32 -Fue:\lazarus\lcl\units\x86_64-win64\win32 -Fue:\lazarus\lcl\units\x86_64-win64 -Fue:\lazarus\components\codetools\units\x86_64-win64 -Fue:\lazarus\components\lazutils\lib\x86_64-win64 -Fue:\lazarus\packager\units\x86_64-win64 &quot;-FuE:\Usuario\OneDrive\Proyecto\Proyecto-final -2\LzOBD\&quot; &quot;-FUE:\Usuario\OneDrive\Proyecto\Proyecto-final -2\LzOBD\lib\x86_64-win64\&quot; -dUseCThreads -dLCL -dLCLwin32 project1.lpr"/>
+</CONFIG>
